@@ -1,0 +1,95 @@
+#element-one {
+    width: 100px;
+    height: 100px;
+    background-color: darkcyan;
+  }
+  
+  #element-two {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(206, 94, 94);
+  }
+  
+  #element-three {
+    background-color: rgb(162, 227, 50);
+  }
+  
+  #element-four {
+    background-color: rgb(175, 142, 119);
+  }
+  
+  #element-five {
+    background-color: rgb(245, 118, 7);
+  }
+  
+  #element-six {
+    background-color: rgb(192, 171, 69);
+  }
+  
+  #element-seven {
+    background-color: rgb(41, 98, 100);
+  }
+  
+  #element-eight {
+    background-color: rgb(163, 13, 123);
+  }
+  
+  #element-nine {
+    background-color: rgb(167, 60, 10);
+  }
+  
+  .container {
+    width: 400px;
+  }
+  
+  .shape {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+    border-radius: 3px;
+  }
+  
+  .text {
+    display: table;
+    margin: auto;
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 100px;
+  }
+  
+  .parent-table {
+      display: table;
+      text-align: center;
+  }
+  
+  .child-table {
+      font-size: 30px;
+      display: table-cell;
+      vertical-align: middle;
+  }
+  
+  .blur {
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .w-95 {
+    width: 95px;
+  }
+  
+  .w-100 {
+    width: 100px;
+  }
+  
+  .box5style {
+    border-radius: 50%;
+  }
+  
